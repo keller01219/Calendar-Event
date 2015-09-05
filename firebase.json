@@ -1,0 +1,13 @@
+{
+  "firebase": "vivid-inferno-7237",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ],
+  "redirects": [ {
+    "source" : "/",
+    "destination" : "/app",
+    "type" : 301
+  }]
+}
